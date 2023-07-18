@@ -1,2 +1,4 @@
 Soy Angelica Tomala Torres tengo 33 años trabajo en una industria grafica.
 Actualmente estoy aparendiendo Django
+Actualmente estoy aprendiendo ingles.
+Desarrollamos de manera rapido.
